@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Demo", "00_Demo\00_Demo.csproj", "{5F47DB3B-2CFA-4667-8275-674121002D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid_demo", "Solid_demo\Solid_demo.csproj", "{F1544768-B203-47E2-832A-3BF898886524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F47DB3B-2CFA-4667-8275-674121002D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F47DB3B-2CFA-4667-8275-674121002D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F47DB3B-2CFA-4667-8275-674121002D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F47DB3B-2CFA-4667-8275-674121002D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1544768-B203-47E2-832A-3BF898886524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1544768-B203-47E2-832A-3BF898886524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1544768-B203-47E2-832A-3BF898886524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1544768-B203-47E2-832A-3BF898886524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3067B3-11AC-4F92-93DA-AA97FE33C27C}
+	EndGlobalSection
+EndGlobal
